@@ -1,5 +1,5 @@
 # load-fonts-after-page-load
 Test
-test
+<a href="test">aasa</a>
 tes
 t
