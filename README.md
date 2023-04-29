@@ -1,5 +1,3 @@
-# load-fonts-after-page-load
-
 <h1>Load Fonts After Page Load</h1>
 <br>
 The opening speed of the site is of great importance in Google algorithms. The size of the CSS code you use and the loading of the fonts you use with CSS have a great impact on this speed.
