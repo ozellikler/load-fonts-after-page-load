@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<script>
+	var cb = function(d1) {
+	var l = document.createElement('link'); l.rel = 'stylesheet';
+	l.href = d1;
+	var h = document.getElementsByTagName('head')[0]; h.appendChild(l);
+	};
+	cb('/css/google-fonts.css')
+	cb('/css/font-awesome/css/font-awesome.css')
+	cb('/css/Ionicons/css/ionicons.css')
+</script>
+
+</body>
+</html>
