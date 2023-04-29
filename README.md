@@ -7,3 +7,5 @@ This little JavaScript code adds your font CSS files, which take a long time to 
 Activate this code when the page is loaded, or activate it when the user scrolls down.
 <br><br>
 Enjoy.
+
+Mesut - https://www.ozellikleri.net
